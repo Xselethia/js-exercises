@@ -1,3 +1,3 @@
 # js-exercises
 
-ReadMe updated again
+ReadMe will be updated!
