@@ -1,1 +1,3 @@
 # js-exercises
+
+ReadMe updated
